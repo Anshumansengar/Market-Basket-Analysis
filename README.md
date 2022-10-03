@@ -17,16 +17,24 @@ $ cd Desktop
 $ git clone https://github.com/Ankit-217/Market-Basket-Analysis
 
 Prerequisites
+
 Install jupyter notebook https://jupyter.org/install
+
 Download and Install Git Bash (for windows users)
+
 User Manual
+
 Use the sidebar through the different tabs of the dashboard
 
-Upload Tables - this tab is used to define the folder(directory) where all the data files are found. please choose the folder "instacart-market-basket-analysis".
+Upload Tables - this tab is used to define the folder(directory) where all the data files are found. 
+please choose the folder "instacart-market-basket-analysis".
 Tables - this tab helps to take a glance at the data of each dataset.
 Descriptive Data Analytics- this tab has four subtabs representing descriptive graphs of the dataset.
-Prescriptive Data Analytics- this tab implements a Market Basket Analysis. The Apriori algorithm is made interactive as the user has controls to change the parameters of the algorithm. Also, the user can choose if he wants to do the Apriori per product, per Aisle, or per Department. The user will see the marketing insights, Association rule scatterplots, association rule graph and association rules.
+Prescriptive Data Analytics- this tab implements a Market Basket Analysis. 
+The Apriori algorithm is made interactive as the user has controls to change the parameters of the algorithm. Also, the user can choose if he wants to do the Apriori per product, per Aisle, or per Department. The user will see the marketing insights, Association rule scatterplots, association rule graph and association rules.
+
 Tips
+
 if the libraries used are not installed, uncomment the code for installing those packages.
 It is recommended to set the default browser to Google Chrome and once you run the app, click on "Open in Browser".
 
