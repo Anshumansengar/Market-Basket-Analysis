@@ -6,7 +6,9 @@ Market Basket Analysis is one of the key techniques used by large retailers to u
 Association Rules are widely used to analyze retail basket or transaction data, & are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules..
 
 Getting Started
-To clone (download the repository), open Git Bash (for Windows users), terminal for Linux/Mac users and run the following commands:
+To clone (download the repository),
+open Git Bash (for Windows users), 
+terminal for Linux/Mac users and run the following commands:
 
 $ cd DIRECTORY
 
